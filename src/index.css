@@ -1,0 +1,183 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+body{
+  background-color: #61dafb;
+  margin:0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#MyImage2{
+  width:395.91px;
+  height: 232px;
+  margin-left:77px;
+  margin-top:26px;
+}
+
+.AirMain{
+  height: 783px;
+  width:550px;
+  background-color: white;
+  margin-top:2px;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+#topic-container{
+
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 110%;
+color: #000000;
+margin-left: 36px;
+margin-top:32px;
+}
+#wordcontainer{
+color: #222222;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 110%;
+
+width: 320px;
+height: 56px;
+margin-left:36px;
+margin-top:32px;
+
+}
+section{
+  display:flex;
+  flex-direction:row;
+  margin-top: 49px;
+  margin-left:37px;
+  overflow: hidden;
+}
+.postContainer{
+width: 49px;
+height:11px;
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 110%;
+text-align: center;
+color: #222222;
+background-color: white;
+}
+.picturecontent{
+  width:176px;
+  height:302px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin-right:18px;
+}
+#dotcontainer{
+  margin-top:-3px;
+}
+
+.starcontent{
+  margin-top:9px;
+  display: flex;
+  flex-direction: row;
+}
+.imageStar{
+  width: 14px;
+  height: 14px;
+  border-radius: 0.5px;
+}
+.somecontainer{
+  width:175px;
+  height:14px;
+  display: flex;
+  flex-direction: row;
+  margin-top: -15px;
+}
+.sentenceContainer{
+
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 110%;
+color: #222222;
+}
+.lastContent{
+margin-top:-4px;
+display:flex;
+flex-direction: row;
+width: 144px;
+height: 14px;
+margin-top: 8px;
+}
+.starcontainer{
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 110%;
+color: #222222;
+margin-top:1.5px;
+margin-left: 2px;
+}
+.lastContainer{
+  font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 110%;
+}
+.personContainer{
+  font-size: 12px;
+  line-height: 110%;
+  font-weight: lighter;
+  margin-left: 2px;
+  
+
+}
+.wordsomething{
+  margin-top:1.5px;
+  margin-left: 2px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 110%;
+  color: #918E9B;
+}
+.wordcontent{
+  width: 320px;
+  height: 56px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top:-16px
+}
+.image3{
+  width:176px;
+  height: 235px;
+}
+.AirNav{
+  width:550px;
+  height:70px;
+  display: flex;
+  background-color: white;
+  border-top-left-radius: 6px;
+  border-top-right-radius:6px;
+  margin-top:20px;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+  
+}
+#Airimage{
+  width: 82px;
+  height:25.35px;
+  margin-top:22px;
+  margin-bottom: 22.65px;
+  margin-left:30.01px;
+}
